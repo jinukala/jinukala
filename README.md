@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jinukala
-- 👀 I’m interested in java 
-- 🌱 I’m currently a student
-- 💞️ I’m looking to collaborate on any startup
+- 👋 Hi, I’m @Raneesh
+- 👀 I’m interested in java,python,spring boot and as a full stack developer
+- 🌱 I’m currently a undergraduate computer science student
+- 💞️ I’m looking to learn new things
 - 📫 How to reach me @jinukalaraneesh30@gmail.com
 
 <!---
